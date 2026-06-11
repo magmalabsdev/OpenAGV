@@ -1,20 +1,30 @@
 # OpenAGV
+A fully autonomous railcar for item transportation
 
-## Planning
-
-### Must have:
-Entirely passive rails and intersections <br>
-Compact motor configuration <br>
-180x180x360mm cargo volume <br>
-Battery powered <br>
-Automated doors <br>
+## Drivetrain
 
 
-### Should have:
+
+## Windshield
+
+## Cargo Bay
 
 
-### Could have:
-On Track Detachable rail interface <br>
 
+## Tech Specs
 
-### Won't have:
+<br>
+
+|  |  |
+| --- | --- |
+| Cargo volume | 168mm x 336mm x 168mm |
+| Railcar size | --- x 384mm x --- |
+| Cargo bay interface  | Gridfinity |
+| UI | Dual 32x8 LED dot display + 64x8 LED dot display |
+| Supported auxillary servos | 4 |
+| Lidar sensors | 8 |
+| Battery size | 195.36 Wh |
+| Motors | Dual A3536 100KV |
+| Reduction | 3:1 |
+| Control board | 3DBuffalo Echo |
+
