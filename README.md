@@ -6,6 +6,10 @@ A fully autonomous railcar for item transportation. When called remotely via wif
 The car can be called from WiFi in an app. Doors should automatically open when it arrives at its destination. From there, load or unload your items, complete the task in the app, and the railcar will navigate to its next destination. 
 I built this because I'm a lazy bigback and I don't like pausing my coding/CADing/anythinging sessions to grab a snack, deliver an item, or for any reason. 
 
+GitHub really doesn't like large STEP files so here's my onshape link
+
+https://cad.onshape.com/documents/e8be59947376d7d19e89c19e/w/32dc181e05829722aa1fd0af/e/f831f93934d4714405e4e068
+
 
 ## Drivetrain
 
