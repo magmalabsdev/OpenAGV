@@ -19,9 +19,7 @@
 #define WEST_DOOR_MOTOR  1;
 #define EAST_DOOR_MOTOR  2;
 
-#define MUX_ADDR 0x70 
-
-
+#define MUX_ADDR 0x70;
 
 MotorControllers mc =  MotorControllers();
 LedControl lc = LedControl(DIN, CLK, CS,0);
