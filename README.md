@@ -67,3 +67,95 @@ Door panels and the bay roof are entirely transparent allowing users to view the
 | Reduction | 3:1 |
 | Control board | 3DBuffalo Echo |
 
+# How to build
+
+## Tools required
+You will need access to an FDM 3d printer, and ideally an SLA 3d printer for transparent parts, though the car will function without transparent parts. 
+Also needed are 
+- Screwdriver
+- Soldering iron and soldering materials
+- Glue (for magnets)
+
+## Building the drivetrain
+
+### Parts needed
+- Produce the following parts
+  - 2X Side structural plate
+  - 2X Motor Structural Plate
+  - 1X Bottom Structural Plate
+  - 1X Railcar Back Panel (in elec bay)
+  - 4X 5mm OD 55mm L Steel Shaft
+  - 4X 8mm OD 5mm ID 10mm L Spacer
+  - 2X Servo horn to hinge coupler
+  - 2X Rail Navigation Pointer
+  - 2X Custom Servo Horn
+  - 2X 3mm OD 10mm L Steel Shaft
+
+
+- Prepare the following parts
+  - 2X Brushless Motor D3536 100KV
+  - 4X 2GT Timing Pulley Bore 2mm 60T
+  - 2X 2GT Timing Pulley Bore 2mm 20T Double sided
+  - 4X 85m Solid Large Load Bearing Rubber Tyre
+  - 2X 2mm Pitch GT2 Timing Belt 108 Tooth
+  - 2X MG995 55G (or similar) Servo Motor
+  - 6X F624ZZ Ball Bearings
+  - 2X PN532 NFC Reader
+ 
+  - 4X M4x4 Socket Screw
+  - 41X M4x8 Countersunk Screw
+  - 4X M4x8 Socket Screw
+  - 8X M3 Nut
+  - 8X M3x6 Countersunk Screw
+  - 8X M3x12 Socket Screw
+  - 2X M2.5 Large Washer
+  - 2X M2.5 X 6 Socket Screw
+  - 8X M3x10 Socket Screw
+  - 2X M3x6 Button Screw
+  - 18X M3 Threaded Insert
+  - 49X M4 Threaded Insert
+ 
+
+### Assembling the motor plates
+
+- Install 14 M4 threaded inserts on the edge holes of the motor plate
+- Attach motor to motor plate using the included mounting bracket and four M3 nuts
+- Push bearings into place on motor plate with the flange on the opposite side of the motor
+- Attach dual 20T pulley to motor shaft using its coupler through the center bearing
+- Install two steel shafts through the remaining bearings
+- Install wheels on the motor side of the plate using their couplers
+- Position the plate with the motor and wheels on the left side
+- Install one 60T Pulley with its belt on the lower wheel
+    - the coupler should facing right
+- Place a 10mm spacer ton the other wheel shaft
+- Install the other pulley with the coupler touching the spacer
+- Install its matching belt
+- Repeat for both motor plates, mirroring your steps the other one
+
+### Assembling the drivetrain
+
+- Ensure you have wires coming out of the servo motors and PN532 NFC readersm at least 100mm long
+- Assemble two motor plates using the instructions above
+- Install 16 M4 threaded inserts in the sides and on the servo mounting blocks of the bottom structural plate
+- Install 2 M3 threaded inserts in the two PCB mounting standoffs on the bottom structural plate
+- Install the PN532 using its two mounting holes and two M3x6 Button screws
+
+- Assemble two servo motors using four M4x8 socket screws
+- Place the railcar with the servo shafts facing up
+- Install 4 M3 threaded inserts into each custom servo horn
+- Assemble and screw down the custom servo horns using the M2.5 screws and washers
+- Couple the servo horn to hinge couplers to the servo horn using four M3x10 socket screws each
+- Install a 3mm OD 10mm L shaft to connect a coupler to a navigation pointer
+- Lock the shaft into place using two M4x4
+- Repeat for both servos
+
+- Install four M4 threaded inserts into the holes of the side structural plates
+- Install eight M4 threaded inserts into the mounting holes of the railcar back panel
+- Attach the bottom structural plate to one motor plate using M4x8 Countersunk screws
+  - It should be obvious where this plate goes, it is the one with the bent bottom
+- Attach two side structural plates on either side of the motor/bottom plate using using M4x8 Countersunk screws
+- Attach the railcar back panel using its mounting holes
+- Pre-route your cables through the four cable channels on the back panel
+- Install the other motor plate on the other side, sealing everything together
+
+
