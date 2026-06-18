@@ -1,15 +1,14 @@
-<img width="1032" height="1032" alt="Frame" src="https://github.com/user-attachments/assets/0f6d7c56-ce42-44fd-baff-69bb2dc7045a" />
+<img width="1485" height="2100" alt="zine" src="https://github.com/user-attachments/assets/61d6504a-ef19-4695-88a7-2ccae41b2959" />
 
 # OpenAGV
 
 A fully autonomous railcar for item transportation. When called remotely via wifi, the railcar autonomously navigates along a set of tracks using preplaced NFC tags to navigate to its destination. 
-The car can be called from WiFi in an app. Doors should automatically open when it arrives at its destination. From there, load or unload your items, complete the task in the app, and the railcar will navigate to its next destination. 
-I built this because I'm a lazy bigback and I don't like pausing my coding/CADing/anythinging sessions to grab a snack, deliver an item, or for any reason. 
+The car can be called from WiFi in an app. Doors should automatically open when it arrives 
+at its destination. From there, load or unload your items, complete the task in the app, and the railcar will navigate to its next destination. 
 
-GitHub really doesn't like large STEP files so here's my onshape link
+Onshape (cad)
 
 https://cad.onshape.com/documents/e8be59947376d7d19e89c19e/w/32dc181e05829722aa1fd0af/e/f831f93934d4714405e4e068
-
 
 ## Drivetrain
 
@@ -201,7 +200,7 @@ Also needed are
 
 - Install M3 threaded inserts in the mounting holes indicated on the diagram
 (yellow dot = insert here)
-<ADD DIAGRAM HERE >
+<img width="415" height="636" alt="Screenshot 2026-06-17 at 4 54 59 PM" src="https://github.com/user-attachments/assets/425fe75d-cfc8-4cec-a721-1a355ef39668" />
 
 - Tape down any wires you routed from the drivetrain temporarily
 - Install M3 threaded inserts in the following positions on each mounting brace
@@ -383,5 +382,23 @@ Also needed are
 - Install the door assembly on the bottom using M4x15 screws, ensuring the screws on the door panels fit into the channels on the cover plates
 - Cover the cargo bay base using the cargo bay cover and the M4x10 countersunk screws
 - Finally, install the front cover plate using M4x10 Countersunk Screws
+
+
+
+# Why I built this
+
+Smart appliances exist everywhere now: washing machines, robot vacuum cleaners, and dishwashers all automate some component of a repetitive chore. But something these appliances don't have is integration. After one is done, you still have to manually transport items to the next appliance to begin its next operation. You still have to refill its supplies manually. 
+
+OpenAGV bridges this gap. This railcar is designed to be able to move in any orientation and carry a large volume of items. It supports up to seven auxillary bay motors for the cases where the railcar alone can't fully automate a task. And the base is fully modular to allow for infinite configurations for unique, high complexity tasks.
+
+Imagine your roomba runs out of cleaning fluid. After notifying a railcar, the car can drive to a specially designed shelf, pick up the required item, drive to the roomba's docking station, and refill it entirely automatically. 
+
+Or say you're cooking dinner and forget a specific ingredient. Instead of taking your hands off the task at hand, you tell your smart speaker assistant to bring it to you. It sends a command to the railcar which navigates to the shelf, picks up the item, and brings it to you. 
+
+OpenAGV can also be used within machines where destination count is high and traffic is low enough that building a conveyor belt would be impractical. 
+
+These are just the surface of what a compact, wall mounted railcar like this enables. [zine.pdf](https://github.com/user-attachments/files/29071181/zine.pdf)
+[zine.pdf](https://github.com/user-attachments/files/29071178/zine.pdf)
+
 
 
