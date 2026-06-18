@@ -1,0 +1,194 @@
+Item,Subassembly,Component,Order/Drawing,Unit price,Quantity,Total price,Status,Notes
+Side structural plate (3DP),Drivetrain,Structure,,,2,,Need to manufacture,Print in PETG
+Motor Structural Plate (3DP),Drivetrain,Structure,,,2,,Need to manufacture,Print in PETG
+Bottom Structural Plate (3DP),Drivetrain,Structure,,,1,,Need to manufacture,Print in PETG
+5mm OD 55mm L Steel Shaft,Drivetrain,Shaft,,,4,,Need to manufacture,Cut to size
+8mm OD 5mm ID 10mm L Spacer,Drivetrain,Structure,,,4,,Need to manufacture,Print in PLA
+Servo horn to hinge coupler,Drivetrain,Steering,,,2,,Need to manufacture,Print in PA/PC
+Rail Navigation Pointer ,Drivetrain,Steering,,,2,,Need to manufacture,Print in PA/POM
+Custom Servo Horn,Drivetrain,Steering,,,2,,Need to manufacture,Print in PA/PC
+,,,,,,,,
+Brushless Motor D3536 100KV,Drivetrain,Drive,Ebay,24.99,2,49.98,Need to order,
+2GT Timing Pulley Bore 2mm 60T 4 pack,Drivetrain,Pulley,Amazon,14.98,1,14.98,Need to order,
+2GT Timing Pulley Bore 2mm 20T Double sided,Drivetrain,Pulley,Aliexpress,6.48,2,12.96,Need to order,
+2PCS 85m Solid Large Load Bearing Rubber Tyre,Drivetrain,Wheel,Amazon,25.55,2,51.1,Need to order,
+2mm Pitch GT2 Timing Belt 108 Tooth,Drivetrain,Belt,Servocity,3.79,4,15.16,Need to order,
+2Pcs MG995 55G Servo Motor,Drivetrain,Steering,Amazon,13.98,1,--,Have it,
+6-Pack F624ZZ Ball Bearings,Drivetrain,Bearing,Amazon,10.99,1,10.99,Need to order,
+NFC Reader,Drivetrain,Navigation,Amazon,8.99,1,8.99,Need to order,
+,,,,,,,,
+Hex socket head cap screw M4x0.70 x 4 Stainless Steel ,Drivetrain,Standard Parts,,,4,,Unprocessed,
+Hex socket countersunk head screw M4x0.7 x 8 Stainless Steel ,Drivetrain,Standard Parts,,,41,,Unprocessed,
+Hex socket head cap screw M4x0.70 x 8 Stainless Steel ,Drivetrain,Standard Parts,,,4,,Unprocessed,
+Hex nut grade A & B M3x0.5 Stainless Steel ,Drivetrain,Standard Parts,,,8,,Unprocessed,
+Hex socket countersunk head screw M3x0.5 x 6 Stainless Steel ,Drivetrain,Standard Parts,,,8,,Unprocessed,
+Hex socket head cap screw M3x0.50 x 12 Stainless Steel ,Drivetrain,Standard Parts,,,8,,Unprocessed,
+Plain washer large grade A M2.5 Stainless Steel ,Drivetrain,Standard Parts,,,2,,Unprocessed,
+Hex socket head cap screw M2.5x0.45 x 6 Stainless Steel ,Drivetrain,Standard Parts,,,2,,Unprocessed,For attaching to servos
+Hex socket head cap screw M3x0.50 x 10 Stainless Steel ,Drivetrain,Standard Parts,,,8,,Unprocessed,For coupling horn to hinge
+Socket button head screw M3x0.5 x 6 Stainless Steel ,Drivetrain,Standard Parts,,,2,,Unprocessed,For NFC reader to bottom of drivetrain
+M3 Threaded Insert,Drivetrain,Standard Parts,,,18,,Unprocessed,
+M4 Threaded Insert,Drivetrain,Standard Parts,,,49,,Unprocessed,
+,,,,,,,,
+,,,,,,,,
+Railcar Back Panel,Elec Bay,Structure,,,1,,Need to manufacture,Print in PETG
+Elec Bay Bottom Channel,Elec Bay,Structure,,,1,,Need to manufacture,Print in PETG
+Elec Bay Top Channel,Elec Bay,Structure,,,1,,Need to manufacture,Print in PLA
+Echo Mounting Brace,Elec Bay,Mounting,,,1,,Need to manufacture,Print in PLA
+5mm OD 3.2mm ID 3mm H Custom Spacer,Elec Bay,Mounting,,,14,,Need to manufacture,Print in PLA
+LED Matrix Mounting Brace,Elec Bay,Mounting,,,1,,Need to manufacture,Print in PETG
+5mm OD 3.2mm ID 13mm H Custom Spacer,Elec Bay,Mounting,,,8,,Need to manufacture,Print in PLA
+5mm OD 3.2mm ID 29mm H Custom Spacer,Elec Bay,Mounting,,,10,,Need to manufacture,Print in PETG
+Battery Clip,Elec Bay,Mounting,,,5,,Need to manufacture,Print in PETG
+Low Profile Battery Clip,Elec Bay,Mounting,,,2,,Need to manufacture,Print in PETG
+Buck Converter Mounting Brace,Elec Bay,Mounting,,,2,,Need to manufacture,Print in PLA
+I2C Multiplexer Mounting Brace,Elec Bay,Mounting,,,1,,Need to manufacture,Print in PLA
+Elec-Cargo Bay Separation Panel,Elec Bay,Structure,,,1,,Need to manufacture,Print in PETG
+,,,,,,,,
+3DBuffalo Echo,Elec Bay,Controller,3DBuffalo,54.99,1,--,Have it,
+2pcs Zeee 4S Lipo 14.8V 3300mAh,Elec Bay,Batteries,Aliexpress,47.66,1,47.66,Need to order,
+650mAh 120C Lipo Battery 3S,Elec Bay,Batteries,Aliexpress,12.19,1,12.19,Need to order,
+2-6S 70A 32-bit Bidirectional Brushless ESC with XT60 Connector,Elec Bay,ESC,Aliexpress,21.81,2,43.62,Need to order,
+XT30 to Bare Wire,Elec Bay,Wires,Gobilda,2.49,1,2.49,Need to order,
+TCA9548A I2C 8-Channel Multiplexer,Elec Bay,Communication,Amazon,6.88,1,6.88,Need to order,
+LM2596 DC-DC Buck Power Converter Module 2PCS,Elec Bay,Power Regulation,Amazon,7.99,1,7.99,Need to order,
+MAX7219 Dot Matrix 8 in 1 Display Module,Elec Bay,Information,Amazon,13.99,1,13.99,Need to order,
+Micro SD TF Card Adapter,Elec Bay,Data,Amazon,5.99,0,0,Cancelled,
+4 PCS Speaker 3 Watt 8 Ohm Mini Speaker,Elec Bay,Information,Amazon,9.99,0,0,Cancelled,
+,,,,,,,,
+Socket button head screw M3x0.5 x 8 Stainless Steel ,Elec Bay,Standard Parts,,,18,,Unprocessed,
+Socket button head screw M3x0.5 x 10 Stainless Steel ,Elec Bay,Standard Parts,,,4,,Unprocessed,
+Socket button head screw M3x0.5 x 18 Stainless Steel ,Elec Bay,Standard Parts,,,8,,Unprocessed,
+Socket button head screw M3x0.5 x 6 Stainless Steel ,Elec Bay,Standard Parts,,,10,,Unprocessed,
+Hex socket countersunk head screw M3x0.5 x 4 Stainless Steel ,Elec Bay,Standard Parts,,,3,,Unprocessed,
+Hex socket countersunk head screw M3x0.5 x 36 Stainless Steel ,Elec Bay,Standard Parts,,,10,,Unprocessed,
+M3 Threaded Insert,Elec Bay,Standard Parts,,,45,,Unprocessed,
+,,,,,,,,
+,,,,,,,,
+Logo tiles (3DP),Windshield,Branding,,,6 + 1,,Need to manufacture,Print in matching color PLA
+Unibody Windshield frame (3DP),Windshield,Structure,,,,,Need to manufacture,
+Window (SLA3DP),Windshield,Structure,,,,,Need to manufacture,
+,,,,,,,,
+VL53L1X lidar sensor 4pcs,Windshield,Detection,Amazon,21.69,2,43.38,Need to order,
+MAX7219 Dot Matrix 4 in 1 Display Module (2 pack),Windshield,Information,Amazon,12.99,1,12.99,Need to order,
+,,,,,,,,
+Hex socket head cap screw M3x0.50 x 5 Stainless Steel ,Windshield,Standard Parts,,,6,,Have it,
+Hex socket head cap screw M2x0.40 x 5 Stainless Steel ,Windshield,Standard Parts,,,8,,Have it,
+Hex socket countersunk head screw M3x0.5 x 8 Stainless Steel ,Windshield,Standard Parts,,,8,,Have it,
+M2 Nuts,Windshield,Standard Parts,,,8,,,
+M3 Nuts,Windshield,Standard Parts,,,8,,,
+M3 Threaded Inserts,Windshield,Standard Parts,,,6,,,
+,,,,,,,,
+,,,,,,,,
+Cargo Bay Bottom Panel (3DP),Cargo Bay,Structure,,,,,Need to manufacture,Print in PETG
+Cargo Bay Base (3DP),Cargo Bay,Structure,,,,,Need to manufacture,Print in PETG
+8x4 Gridfinity Baseplate (3DP),Cargo Bay,Structure,,,,,Need to manufacture,Print in PLA
+Cargo Bay Cover,Cargo Bay,Structure,,,,,Need to manufacture,Print in clear resin OR PETG depending on if you want a window
+Front Cover Plate,Cargo Bay,Structure,,,,,Need to manufacture,Print in PETG
+,,,,,,,,
+Pogo pins kit,Cargo Bay,Power,Amazon,7.99,4,31.96,Need to order,
+,,,,,,,,
+Hex socket countersunk head screw M4x0.7 x 10 Stainless Steel ,Cargo Bay,Standard Parts,,,46,,Unprocessed,
+Hex socket head cap screw M4x0.70 x 15 Stainless Steel ,Cargo Bay,Standard Parts,,,24,,Unprocessed,
+Socket button head screw M3x0.5 x 8 Stainless Steel ,Cargo Bay,Standard Parts,,,24,,Unprocessed,
+Hex socket countersunk head screw M3x0.5 x 5 Stainless Steel ,Cargo Bay,Standard Parts,,,24,,Unprocessed,
+6x2 Round Magnet,Cargo Bay,Standard Parts,,,104,,Unprocessed,
+M3 Threaded Inserts,Cargo Bay,Standard Parts,,,48,,Unprocessed,
+M4 Threaded Inserts,Cargo Bay,Standard Parts,,,70,,Unprocessed,
+,,,,,,,,
+,,,,,,,,
+Door Bay Bottom Channe (3DP),Door,Structure,,,1,,Need to manufacture,Print in PETG
+Door Bay Top Channel (3DP),Door,Structure,,,1,,Need to manufacture,Print in PLA
+Door Bay Cap (3DP),Door,Motion,,,2,,Need to manufacture,Print in PETG
+Upper Belt clamp (2PCS 3DP),Door,Motion,,,2,,Need to manufacture,Print in PETG
+Lower Belt clamp (2PCS 3DP),Door,Motion,,,2,,Need to manufacture,Print in PETG
+SLA3DP Custom Transparent Door Panel,Door,Structure,,,14,,Need to manufacture,Print in clear resin
+3DP Door Endstop Magnetic Latch,Door,Structure,,,2,,Need to manufacture,Print in PLA
+3mm OD 30mm L Steel Shaft (2PCS Cut to length),Door,Structure,,,2,,Need to manufacture,Cut to length
+2mm OD 150mm L Aluminum Shaft (Cut to length),Door,Structure,,,16,,Need to manufacture,Cut to length
+,,,,,,,,
+10pcs Set Screw Collars 3.05mm,Door,Belt clamp,Amazon,6.79,1,6.79,Need to order,
+20 Teeth 3mm Bore Timing Pulley 2 pack,Door,Pulley,Amazon,6.69,2,13.38,Need to order,
+Flanged Ball Bearing 3mmx6mmx2.5mm 10pcs,Door,Bearing,Amazon,11.89,1,11.89,Need to order,
+2mm Pitch GT2 Timing Belt 188 Tooth,Door,Belt,Servocity,6.59,2,13.18,Need to order,
+2pcs GA12-N20 N20 (12V 500RPM) Gear Reducer Motor,Door,Motor,Amazon,9.99,2,19.98,Need to order,
+,,,,,,,,
+Hex socket head cap screw M2x0.40 x 5 Stainless Steel ,Door,Standard Parts,,,4,,Unprocessed,
+Hex nut grade A & B M2x0.4 Stainless Steel ,Door,Standard Parts,,,4,,Unprocessed,
+Hex socket head cap screw M3x0.50 x 10 Stainless Steel ,Door,Standard Parts,,,28,,Unprocessed,
+Hex socket head cap screw M1.6x0.35 x 3 Stainless Steel ,Door,Standard Parts,,,4,,Unprocessed,
+Hex socket countersunk head screw M3x0.5 x 5 Stainless Steel ,Door,Standard Parts,,,12,,Unprocessed,
+6x2 Round Magnet,Door,Standard Parts,,,6,,Unprocessed,
+M3 Helicoil Inserts: 32,Door,Standard Parts,,,32,,Unprocessed,
+M3 Heat Set Inserts: 12,Door,Standard Parts,,,12,,Unprocessed,
+,,,,,,,,
+,,,,,,,,
+Wheel interface pad,Rails,Structure,,,2 Per 200mm,,Need to manufacture,Print in TPU or use panels
+Rail Bracket,Rails,Structure,,,1 Per 200mm,,Need to manufacture,Print in PA/PC
+,,,,,,,,
+Peg Contact Rail,Rails,Structure,,,1 Per 800mm,,Need to order,Bent metal is best but high strength plastic works
+NFC Tags,Rails,Navigation,Amazon,12.34,"4 per intersection, 1 per station",,Need to order,
+,,,,,,,,
+Rail Intersection,Rails,Intersection,,,,,Need to order,"No good known way to manufacture atm, DFM in progress"
+,,,,,,,,
+Hex socket countersunk head screw M3x0.5 x 12 Stainless Steel ,Rails,Standard Parts,,,6 per 200mm,,Need to order,
+,,,,,,,,
+,,,,,,,,
+Loctite 243 Blue Medium Strength Threadlocker,Raw Material,Raw Material,Amazon,15.81,1,15.81,Need to order,
+5mm x 200mm 304 Stainless Steel Round Rod 5PCS,Raw Material,Raw Material,Amazon,6.99,1,6.99,Need to order,
+3mm x 150mm 304 Stainless Steel Round Rod 5PCS,Raw Material,Raw Material,Amazon,5.99,1,5.99,Need to order,
+2mm x 300mm 304 Stainless Steel Round Rod 5PCS,Raw Material,Raw Material,Amazon,5.99,2,11.98,Need to order,
+,,,,,,,,
+PLA Filament (Galaxy Purple),Raw Material,Raw Material,Bambu Lab,24.99,1,--,Have it,
+PETG Filament,Raw Material,Raw Material,Bambu Lab,19.99,1,19.99,Need to order,
+TPU Filament,Raw Material,Raw Material,Polymaker,29.99,1,--,Have it,
+PA Filament,Raw Material,Raw Material,Polymaker,49.99,1,--,Have it,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+TOTAL,,,,,,513.29,,
+,,,,,,,,
+,,,,,,,,
+Too many screws? I got you covered,*note: this is summarized by AI: Cross check important info,,,,,,,
+M1.6,,,,,,,,
+M1.6 x 3,4,,,,,,,
+M2,,,,,,,,
+M2 X 3,8,,,,,,,
+M2 X 5,4,,,,,,,
+Hex nut M2×0.4,12,,,,,,,
+M2.5,,,,,,,,
+M2.5 X 6,2,,,,,,,
+Plain washer large grade A M2.5,2,,,,,,,
+M3,,,,,,,,
+Countersunk M3x4,3,,,,,,,
+Countersunk M3x5,44,,,,,,,
+Countersunk M3x6,8,,,,,,,
+Countersunk M3x12,12 + Rails,,,,,,,
+Countersunk M3x36,10,,,,,,,
+Socket M3x5,6,,,,,,,
+Socket M3x10,36,,,,,,,
+Socket M3x12,8,,,,,,,
+Button M3x6,12,,,,,,,
+Button M3x8,42,,,,,,,
+Button M3x10,4,,,,,,,
+Byttoin M3x18,8,,,,,,,
+Hex nut M3×0.5,16,,,,,,,
+Heat Set Inserts,129,,,,,,,
+Helicoil Inserts,12,,,,,,,
+M4,,,,,,,,
+Countersunk M4x8,41,,,,,,,
+Countersunk M4x10,46,,,,,,,
+Socket M4x4,4,,,,,,,
+Socket M4x8,4,,,,,,,
+Socket M4x15,24,,,,,,,
+Heat Set Inserts,119,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+https://www.amazon.com/QIYANGBRO-Momentary-Button-Assorted-Self-Resetting/dp/B0DP4BJSPJ/ref=sr_1_1_sspa?crid=2ATCZBVJW20EZ&dib=eyJ2IjoiMSJ9.U9olZ3GMfMq0r2Ub5cKo3eEavXqJSFS-WMXqUXNFn4Wns_q1zOiy5phGL3tuIR1pbuzf4PztnYzWW62J6otuS6D66Pe326DLa1sWhf2JlNGFEul__sJMWiJdutP20ngVUfQPWwTdUO6YdY0FVjyEol5AULp_VJF-Dx4Xi36FFgs7vO0p_Ha37jjcnc8Vh9AYXbp27fP9ubrG5no5FHIK5QG9veEt8Ns2QXcQ5bm245xhiCBxM1H_ZRC_W2ob-Hxkw0aQin1x7mj4C2v0y5VMxluwzcrK1Z2JoyadPsjVH7E.BiR4LNEzpnXpEYBt-pzLz-gus9HqmlJFRvmANrZvMeQ&dib_tag=se&keywords=low+profile+push+button&qid=1781338299&s=industrial&sprefix=low+profile+push+button%2Cindustrial%2C206&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1,,,,,,,,
+https://www.amazon.com/4PcsThin-Pressure-Sensitivity-Industrial-Measurement/dp/B0FGD267GK/ref=sr_1_3?crid=IZG8ZI8FKZ70&dib=eyJ2IjoiMSJ9.MmW3hJ_4MDq2IYstTZhhXkJo_OhvyZzzOK6pvjT7AoDeNwbcu1kQ1pi7yStwa4OOVlK6nsYmjsn4-uCHiXlMSuiUTlKVO3luMTZLn59LZLHERw5kc01foQU_cd9vYlKpsqtWkCfaK7jgB_iIZnjo6ZlhTx3PyhpI4V7tcVzO_eIm9-Wcl36w6tWgjPnbmULon6Oka0WLiz6EVAFsuZEy9mVian6CJO-6rwt3F9yOdZE.qqpKeN9HXKICoCbdIQlF67iWmh6XuUzZ-RrABMdBhW4&dib_tag=se&keywords=pressure%2Bsensor&qid=1781338124&sprefix=pressure%2Bsens%2Caps%2C260&sr=8-3&th=1,,,,,,,,
+https://www.aliexpress.com/item/1005009383641508.html?src=google&src=google&albch=shopping&acnt=708-803-3821&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en3256809197326756&ds_e_product_merchant_id=5577191021&ds_e_product_country=US&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=19108282527&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=19108284222&gbraid=0AAAAAD6I-hFMSbmQ8cBHocwjBQlkqV7gY&gclid=CjwKCAjw5NvPBhAoEiwA_2egfusg_kJCDuogRxcewQEWcUaf4vyvo0M4438X-PpJfBG40Am6NfAh8RoCjjUQAvD_BwE&gatewayAdapt=4itemAdapt,,,,,,,,
